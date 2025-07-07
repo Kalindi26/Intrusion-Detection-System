@@ -1,0 +1,8 @@
+ultralytics==8.0.201
+opencv-python
+streamlit
+numpy
+pygame
+keras
+tensorflow
+scikit-learn
