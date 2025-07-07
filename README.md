@@ -110,7 +110,10 @@ intrusion-detection-system/
 
 ## 📸 Demo Preview
 
-> <img width="884" alt="image" src="https://github.com/user-attachments/assets/09900527-d335-4951-bb4c-f87f59f91162" />
+> ## 📸 Demo Preview
+
+<img src="https://raw.githubusercontent.com/Kalindi26/Intrusion-Detection-System/main/Screenshot%202025-07-07%20134412.png" width="800"/>
+
 
 
 ---
