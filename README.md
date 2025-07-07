@@ -53,23 +53,23 @@ To get the Intrusion Detection System up and running on your machine, follow the
    cd intrusion-detection-system
 ````
 
-2. **Install Required Libraries**
+2. Install Required Libraries
    Install all necessary Python packages using:
 
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Download MobileNet SSD Model Files**
+3. Download MobileNet SSD Model Files
    Download the following files and place them in the root project directory:
 
-   * [`MobileNetSSD_deploy.prototxt.txt`](https://github.com/chuanqi305/MobileNet-SSD/blob/master/MobileNetSSD_deploy.prototxt)
-   * [`MobileNetSSD_deploy.caffemodel`](https://github.com/chuanqi305/MobileNet-SSD/blob/master/MobileNetSSD_deploy.caffemodel)
+    [`MobileNetSSD_deploy.prototxt.txt`](https://github.com/chuanqi305/MobileNet-SSD/blob/master/MobileNetSSD_deploy.prototxt)
+    [`MobileNetSSD_deploy.caffemodel`](https://github.com/chuanqi305/MobileNet-SSD/blob/master/MobileNetSSD_deploy.caffemodel)
 
-4. **Add a Buzzer Sound File**
+4. Add a Buzzer Sound File
    Download or use an existing `.mp3` buzzer sound file (like `buzzer-or-wrong-answer-20582.mp3`) and place it in the root directory. This will be played when an intrusion is detected.
 
-5. **Set Up Email Alerts**
+5. Set Up Email Alerts
    For email notifications, create a `.streamlit/secrets.toml` file with the following format:
 
    ```toml
@@ -78,22 +78,22 @@ To get the Intrusion Detection System up and running on your machine, follow the
    receiver_email = "receiver_email@example.com"
    ```
 
-   > ⚠️ If using Gmail, make sure to enable 2-Step Verification and create an **App Password** for enhanced security.
+   ⚠️ If using Gmail, make sure to enable 2-Step Verification and create an App Password for enhanced security.
 
-6. **Run the System**
+6. Run the System
    Start the Streamlit application using:
 
    ```bash
    streamlit run detect.py
-   ```
+   
 
    From the sidebar, select your video source (Webcam or Uploaded Video), then check the "Start System" box to begin detection.
 
----
 
-## 📁 File Structure
 
-```
+📁 File Structure
+
+
 intrusion-detection-system/
 │
 ├── detect.py
@@ -108,18 +108,17 @@ intrusion-detection-system/
 
 ---
 
-## 📜 License
+📜 License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the MIT License.
 
----
 
-## 🤝 Acknowledgments
+
+ 🤝 Acknowledgments
 
 * [MobileNet SSD](https://github.com/chuanqi305/MobileNet-SSD)
 * [Streamlit](https://streamlit.io/)
 * [OpenCV](https://opencv.org/)
 
-```
 
 
