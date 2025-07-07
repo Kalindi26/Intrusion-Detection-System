@@ -111,8 +111,10 @@ intrusion-detection-system/
 ## 📸 Demo Preview
 
 > ## 📸 Demo Preview
+## 📸 Demo Preview
 
-<img src="https://raw.githubusercontent.com/Kalindi26/Intrusion-Detection-System/main/Screenshot%202025-07-07%20134412.png" width="800"/>
+![Intrusion Output](https://github.com/Kalindi26/Intrusion-Detection-System/blob/main/Screenshot%202025-07-07%20134412.png?raw=true)
+
 
 
 
