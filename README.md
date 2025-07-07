@@ -108,22 +108,6 @@ intrusion-detection-system/
 
 ---
 
-
-
-
-
-
-
-## 📸 Demo Preview
-
-![Intrusion Output](https://raw.githubusercontent.com/Kalindi26/Intrusion-Detection-System/main/demo_img.png)
-
-
-
-
-
----
-
 ## 📜 License
 
 This project is licensed under the **MIT License**.
