@@ -110,7 +110,8 @@ intrusion-detection-system/
 
 ## 📸 Demo Preview
 
-> *(Add a GIF or image here to show detection in action)*
+> <img width="884" alt="image" src="https://github.com/user-attachments/assets/09900527-d335-4951-bb4c-f87f59f91162" />
+
 
 ---
 
