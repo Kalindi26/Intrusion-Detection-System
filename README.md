@@ -110,11 +110,13 @@ intrusion-detection-system/
 
 
 
-## 📸 Demo Preview
+
+
+
 
 ## 📸 Demo Preview
 
-![Intrusion Output](https://github.com/Kalindi26/Intrusion-Detection-System/blob/main/demo_img.png?raw=true)
+![Intrusion Output](https://raw.githubusercontent.com/Kalindi26/Intrusion-Detection-System/main/demo_img.png)
 
 
 
