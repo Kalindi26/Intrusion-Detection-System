@@ -108,12 +108,12 @@ intrusion-detection-system/
 
 ---
 
-## 📸 Demo Preview
 
-> ## 📸 Demo Preview
+## 📸 Demo Preview
 ## 📸 Demo Preview
 
 ![Intrusion Output](https://github.com/Kalindi26/Intrusion-Detection-System/blob/main/Screenshot%202025-07-07%20134412.png?raw=true)
+
 
 
 
