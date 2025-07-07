@@ -84,7 +84,7 @@ To get the Intrusion Detection System up and running on your machine, follow the
    Start the Streamlit application using:
 
    ```bash
-   streamlit run app.py
+   streamlit run detect.py
    ```
 
    From the sidebar, select your video source (Webcam or Uploaded Video), then check the "Start System" box to begin detection.
@@ -96,7 +96,7 @@ To get the Intrusion Detection System up and running on your machine, follow the
 ```
 intrusion-detection-system/
 │
-├── app.py
+├── detect.py
 ├── requirements.txt                
 ├── MobileNetSSD_deploy.caffemodel  
 ├── MobileNetSSD_deploy.prototxt.txt 
